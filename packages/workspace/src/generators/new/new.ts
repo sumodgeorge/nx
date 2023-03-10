@@ -1,6 +1,5 @@
 import {
   addDependenciesToPackageJson,
-  formatFiles,
   installPackagesTask,
   names,
   PackageManager,

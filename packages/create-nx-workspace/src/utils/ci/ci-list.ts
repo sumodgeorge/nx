@@ -5,3 +5,5 @@ export const ciList = [
   'bitbucket-pipelines',
   'gitlab',
 ] as const;
+
+export type CI = typeof ciList[number];
