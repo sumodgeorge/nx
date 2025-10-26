@@ -388,7 +388,7 @@
     "react": "18.3.1",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "18.3.1",
-    "react-syntax-highlighter": "^15.5.0",
+    "react-syntax-highlighter": "^16.0.0",
     "regenerator-runtime": "0.13.7",
     "shadergradient": "^1.2.14",
     "string-width": "^4.2.3",
